@@ -13,7 +13,7 @@ Das Ziel dieses Projekts ist es, Webentwicklung Grundlagen zu üben und zu zeige
   
 ## Erledigte Features
 
-## Live-Demo (ACHTUNG LAYOUT IST AKTUELL NUR AUF LAPTOP AUSGERICHTET!)
+## Live-Demo 
 [Hier kannst du die Website ansehen](https://andrei04-0106.github.io/Projekt3_Website_Newsletter)
 
 ## Feedback
